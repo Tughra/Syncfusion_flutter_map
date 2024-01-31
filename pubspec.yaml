@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  syncfusion_flutter_core: ^23.1.36
+  syncfusion_flutter_core: 23.1.36
 
       
   http: ^1.0.0
